@@ -17,7 +17,9 @@ Enxergo a rotina de um ecossistema de saúde de grande porte como um laboratóri
 
 ### 🚀 Projetos em Destaque
 
+* **[hospital-flow-analytics](https://github.com/JJ-LXXVI/hospital-flow-analytics):** Pipeline analítico em Python e Dashboard no Power BI para análise preditiva de demanda, triagem inteligente e redução do tempo de espera em exames assistenciais.
 * **[Monitor-Agent](https://github.com/JJ-LXXVI/monitor-agent):** Ferramenta de monitoramento de infraestrutura (CPU/RAM/Disco) com logs em JSON e alertas assíncronos.
+* **[Portifólio Pessoal](https://jj-lxxvi.github.io/portifolio/):** Central interativa dos meus projetos de Engenharia de Dados, Analytics e Inteligência Artificial, com apresentação detalhada de casos de uso e competências técnicas.
 * **[NutriControl](https://nutricontrol-5milh5w6.manus.space):** Plataforma para monitoramento analítico de ganho de peso, cálculo de macronutrientes e controle calórico diário de alta precisão.
 * **[Portfólio Digital](https://jonathaspor-l3r9rggy.manus.space):** Site institucional desenvolvido durante a formação profissional no instituto social Ser+.
 
@@ -25,7 +27,6 @@ Enxergo a rotina de um ecossistema de saúde de grande porte como um laboratóri
 
 ### 🚧 Projetos em Desenvolvimento
 
-* **[hospital-flow-analytics](https://github.com/JJ-LXXVI/hospital-flow-analytics):** Pipeline analítico em Python e Dashboard no Power BI para análise preditiva de demanda, triagem inteligente e redução do tempo de espera em exames assistenciais.
 * **[llm-adoption-and-eval-framework](https://github.com/JJ-LXXVI/llm-adoption-and-eval-framework):** Framework em Python com NLP para monitoramento de satisfação (NPS), avaliação de métricas de qualidade e mitigação de alucinações em agentes LLM.
 * **[user-adoption-telemetry](https://github.com/JJ-LXXVI/user-adoption-telemetry):** Sistema de processamento de logs de telemetria e análise de engajamento (DAU/MAU) para diagnóstico de curva de adoção de softwares corporativos.
 
